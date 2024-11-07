@@ -1,0 +1,6 @@
+requests
+Wave
+PyAudio
+pydub
+python3-pyaudio
+python3-pydub
